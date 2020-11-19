@@ -22,3 +22,12 @@ body {
     height: 200px;
     display: inline;
 }
+
+.contact {
+    padding: 3%;
+}
+.contact, p {
+    font-size: 2rem;
+    text-shadow: 2px 2px black;
+    color: white;
+}
